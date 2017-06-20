@@ -1,0 +1,13 @@
+{
+  "name": "fake-connector",
+  "version": "0.0.1",
+  "description": "Just a simple HTTP server to accept HTTP POST",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache 2 License",
+  "dependencies": {}
+}
